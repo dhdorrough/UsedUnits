@@ -10,15 +10,15 @@ uses
 const
   Version  = '1.07';
 
-{ 1.06 03/28/2003 pb  Made the behaviour wrt. a project file entered manually the same as the behaviour wrt. a project file entered using a command line parameter  }
-{ 1.06 03/28/2003 pb  Corrected so that the .dof file is read if a project file is entered using a command line parameter }
-{ 1.06 03/28/2003 pb  Added Browsing Path to the paths }
-{ 1.06 03/28/2003 pb  Removed menu items that are not functional by making them invisible }
-{ 1.06 03/28/2003 pb  Moved the Setup page to the last page }
-{ 1.06 03/28/2003 pb  Added an hour glass cursor }
-{ 1.05 03/28/2003 dhd Load SearchPath from .dof file }
-{ 1.04 09/05/2002 dhd Get rid of ShBrowse }
-{ 1.03 07/13/2000 dhd Allow search for Interface only relations }
+{ 1.06 03/28/2003 Made the behaviour wrt. a project file entered manually the same as the behaviour wrt. a project file entered using a command line parameter  }
+{ 1.06 03/28/2003 Corrected so that the .dof file is read if a project file is entered using a command line parameter }
+{ 1.06 03/28/2003 Added Browsing Path to the paths }
+{ 1.06 03/28/2003 Removed menu items that are not functional by making them invisible }
+{ 1.06 03/28/2003 Moved the Setup page to the last page }
+{ 1.06 03/28/2003 Added an hour glass cursor }
+{ 1.05 03/28/2003 Load SearchPath from .dof file }
+{ 1.04 09/05/2002 Get rid of ShBrowse }
+{ 1.03 07/13/2000 Allow search for Interface only relations }
   
   MAXUNITS = 1600;
 type
