@@ -1,0 +1,168 @@
+object TListOfAllUnits
+  RootUnit = 'C:\MM95\Misc\UsedUnits\FindUsedUnits.dpr'
+  object TUnitInfo
+    UnitName = 'ActiveX.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'BCCSoftwareConst.pas'
+    FilePath = 'c:\mm95\libsrc\'
+    Found = True
+  end
+  object TUnitInfo
+    UnitName = 'Classes.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'ComCtrls.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'CommCtrl.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'ComObj.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Controls.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Dialogs.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'ExtCtrls.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'FileCtrl.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'FindUsedUnits.dpr'
+    FilePath = 'C:\MM95\Misc\UsedUnits\'
+    Found = True
+    UnitsReferenced.Strings = (
+      'Forms.pas'
+      'STStrL.pas'
+      'uUsedUnits.pas')
+  end
+  object TUnitInfo
+    UnitName = 'Forms.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Graphics.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Menus.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Messages.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Printers.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Registry.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'Screens.pas'
+    FilePath = 'c:\mm95\libsrc\'
+    Found = True
+    UnitsReferenced.Strings = (
+      'Forms.pas'
+      'Windows.pas')
+  end
+  object TUnitInfo
+    UnitName = 'Security.pas'
+    FilePath = 'c:\mm95\libsrc\'
+    Found = True
+    UnitsReferenced.Strings = (
+      'Windows.pas')
+  end
+  object TUnitInfo
+    UnitName = 'SHBrowse.pas'
+    FilePath = 'c:\mm95\libsrc\'
+    Found = True
+    UnitsReferenced.Strings = (
+      'Classes.pas'
+      'ShlObj.pas'
+      'Windows.pas'
+      'Forms.pas'
+      'ActiveX.pas'
+      'ComObj.pas'
+      'SysUtils.pas'
+      'BCCSoftwareConst.pas')
+  end
+  object TUnitInfo
+    UnitName = 'ShlObj.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'SoftReg.pas'
+    FilePath = 'c:\mm95\libsrc\'
+    Found = True
+    UnitsReferenced.Strings = (
+      'Classes.pas'
+      'ComCtrls.pas'
+      'Controls.pas'
+      'ExtCtrls.pas'
+      'Forms.pas'
+      'StdCtrls.pas'
+      'SysUtils.pas'
+      'Windows.pas'
+      'CommCtrl.pas'
+      'FileCtrl.pas'
+      'Printers.pas'
+      'Registry.pas'
+      'BCCSoftwareConst.pas'
+      'Screens.pas'
+      'Security.pas')
+  end
+  object TUnitInfo
+    UnitName = 'StdCtrls.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'STStrL.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'SysUtils.pas'
+    Found = False
+  end
+  object TUnitInfo
+    UnitName = 'uUsedUnits.pas'
+    FilePath = 'C:\MM95\Misc\UsedUnits\'
+    Found = True
+    UnitsReferenced.Strings = (
+      'Windows.pas'
+      'Messages.pas'
+      'SysUtils.pas'
+      'Classes.pas'
+      'Graphics.pas'
+      'Controls.pas'
+      'Forms.pas'
+      'Dialogs.pas'
+      'StdCtrls.pas'
+      'ExtCtrls.pas'
+      'ComCtrls.pas'
+      'SHBrowse.pas'
+      'SoftReg.pas'
+      'Menus.pas'
+      'StStrL.pas')
+  end
+  object TUnitInfo
+    UnitName = 'Windows.pas'
+    Found = False
+  end
+end
