@@ -1,7 +1,6 @@
 program FindUsedUnits;
 
 uses
-  ExceptionLog,
   Forms,
   uUsedUnits in 'uUsedUnits.pas' {Form_UsedUnits},
   MyUtils in '..\MyUtils\MyUtils.pas',
